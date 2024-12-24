@@ -4,7 +4,8 @@
 
 ## Отказ о публикации в русторе
 ![image](https://github.com/user-attachments/assets/8a19bb7d-73a9-45fa-bdc7-fe3c3a8e7687)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/27289a6f-b8bb-4dd4-a00d-3e72538e13c7)
+
 
 ## Функционал приложения
 
